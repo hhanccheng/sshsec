@@ -1,6 +1,5 @@
 # sshsec
-# This script use to quick setup vps security
-# Change the default ssh port, and disable password login
+# This script use to change the default ssh port, and disable password login
 # Vps version: debian 10
 # Before run this script:
     # Set the key to log in SSH
