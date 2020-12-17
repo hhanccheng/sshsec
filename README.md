@@ -2,8 +2,8 @@
 # This script use to quick setup vps security
 # change the default ssh port, and disable password login
 # vps version: debian 10
-
-# Set the key to log in SSH
+# Before Run this script:
+    # Set the key to log in SSH
     # in localhost generate key pairs
     '''
     ssh-keygen -t rsa
